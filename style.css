@@ -216,6 +216,10 @@ h2{
     color: #000;
 }
 
+footer{
+    margin-bottom: 5rem;
+}
+
 @media screen and (max-width:760px){
     .texto h1{
         font-size: 3rem;
@@ -224,7 +228,8 @@ h2{
         font-size: 1rem;
     }
     .imagenPresen img {
-        width: 50%;
+        width: 60%;
         height: auto;
     }
+
 }
